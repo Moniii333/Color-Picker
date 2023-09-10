@@ -1,3 +1,3 @@
 # 🎨 Color Picker
 
-Follow the instructions in the workshop to finish the assignment!
+This was a fun assignment and getting practice using new libraries.
